@@ -8,23 +8,17 @@
   </b>
 </h1>
 
-<p align="center">
-  I am an OT Cybersecurity Architect with 15+ years in IT & OT security.  
-  I design and secure critical infrastructures for industries like energy and petrochemical in the middle-east. My focus is on IEC 62443, SCADA security, and protecting OT environments from evolving threats. 
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+Dark+Raver's+Corner" alt="Typing SVG" />
+</h1>
 
-<script>
-const text = "Welcome to Dark Raver's Corner";
-let i = 0;
-function typeWriter() {
-  if (i < text.length) {
-    document.getElementById("typing").innerHTML += text.charAt(i);
-    i++;
-    setTimeout(typeWriter, 100);
-  }
-}
-typeWriter();
-</script>
+### 👋 About Me  
+I am **Abu Saleh Muhammad Zakaria**, an **OT Cybersecurity Architect** with 15+ years of experience.  
+I specialize in **ICS/OT & SCADA Security**, helping industries secure their **critical infrastructure**.  
+My work focuses on **IEC 62443**, threat modeling, and protecting **OT environments** against advanced threats.  
+
+🔹 **OT Security | IEC 62443 | SCADA Defense | Threat Researcher**  
+
 
 
 <!--
