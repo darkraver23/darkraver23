@@ -1,18 +1,10 @@
-## Hi there 👋
 
-<h1 align="center">
-  <b>
-    <a href="#" style="text-decoration:none;">
-      <span id="typing"></span>
-    </a>
-  </b>
-</h1>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Welcome+to+Dark+Raver's+Corner" alt="Typing SVG" />
 </h1>
 
-### 👋 About Me  
+### Hi there 👋
 I am an **OT Cybersecurity Architect** with 15+ years of experience.  
 I specialize in **ICS/OT & SCADA Security**, securing **critical infrastructure** against evolving cyber threats.  
 My focus areas include **IEC 62443**, threat modeling, and defense of OT environments.  
