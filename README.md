@@ -1,12 +1,12 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Welcome+to+the+World+of+Cyber+Defense" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Welcome+to+my+World+of+Ethical+Hacking" alt="Typing SVG" />
 </h1>
 
 ### Hi there 👋
 Thanks for stopping by my GitHub profile.  
-Here, you will find collection of **resources, scripts, and tools** that can help you **upgrade your skills** and gain **deeper knowledge** in the complex world of cybersecurity. **Explore the repositories** and dive deeper into this challenging yet exciting field, if you have any question, feel free to reach out.  
+Here, you will find collection of **resources, scripts, and tools** for ehical hacking, that can help you **upgrade your skills** and gain **deeper knowledge** in the complex world of cybersecurity. **Explore the repositories** and dive deeper into this challenging yet exciting field, if you have any question, feel free to reach out.  
 
 You will see content on:  
 - Advanced attack analysis tools and guides  
