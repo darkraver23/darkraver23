@@ -6,8 +6,7 @@
 
 ### Hi there 👋
 Thanks for stopping by my GitHub profile.  
-Here, you will find collection of **resources, scripts, and tools** that can help you **upgrade your skills** and gain **deeper knowledge** in the complex world of cybersecurity.  
-**Explore the repositories** and dive deeper into this challenging yet exciting field, if you have any question, feel free to reach out.  
+Here, you will find collection of **resources, scripts, and tools** that can help you **upgrade your skills** and gain **deeper knowledge** in the complex world of cybersecurity. **Explore the repositories** and dive deeper into this challenging yet exciting field, if you have any question, feel free to reach out.  
 
 You will see content on:  
 - Advanced attack analysis tools and guides  
