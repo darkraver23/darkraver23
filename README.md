@@ -5,11 +5,25 @@
 </h1>
 
 ### Hi there 👋
-I am an **OT Cybersecurity Architect** with 15+ years of experience. I specialize in **ICS/OT & SCADA Security**, securing **critical infrastructure** against evolving cyber threats.  
+Thanks for stopping by my GitHub profile.  
+Here, you will find **resources, scripts, and tools** that can help you **upgrade your skills** and gain **deeper knowledge** in the complex world of cybersecurity.  
+**Explore the repositories** and dive deeper into this challenging yet exciting field.  
 
-My focus areas include **IEC 62443**, threat modeling, and defense of OT environments. Passionate about securing the future** through advanced attack analysis, vulnerability defense, threat intel, and AI-driven research.  
+You will see content on:  
+- Advanced attack analysis tools and guides  
+- Vulnerability management reports  
+- Threat intelligence  
+- Security research reports  
+
+### About Me
+I am an **OT Cybersecurity Architect**. I specialize in **ICS/OT & SCADA Security**, securing **critical infrastructure** against evolving cyber threats.  
+My focus areas include **IEC 62443**, threat modeling, and defense of OT environments.  
+**Passionate about the OT security domain**, learning every day through research and insights from experts worldwide.  
 
 🔹 **OT Security | ICS/SCADA Defense | Threat Research | AI Security**
+
+If you wish, you can connect with me on [**LinkedIn**](https://www.linkedin.com/in/asmz/).
+
 
 <!--
 **asmz23/asmz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
