@@ -16,9 +16,7 @@ You will see content on:
 - Security research reports  
 
 ### About Me:
-I am an **OT Cybersecurity Architect**. I specialize in **ICS/OT & SCADA Security**, securing **critical infrastructure** against evolving cyber threats.  
-My focus areas include **IEC 62443**, threat modeling, and defense of OT environments.  
-**Passionate about the OT security domain**, learning every day through research and insights from experts worldwide.  
+I am an **OT Cybersecurity Architect**. I specialize in **ICS/OT & SCADA Security**, securing **critical infrastructure** against evolving cyber threats. My focus areas include **IEC 62443**, threat modeling, and defense of OT environments. **Passionate about the OT security domain**, learning every day through research and insights from experts worldwide.  
 
 🔹 **OT Security | ICS/SCADA Defense | Threat Research | AI Security**
 
