@@ -24,7 +24,10 @@ My focus areas include **IEC 62443**, threat modeling, and defense of OT environ
 
 If you wish, you can connect with me on [**LinkedIn**](https://www.linkedin.com/in/asmz/).
 <hr>
-*Disclaimer: All the materials found here are intended solely for research or educational purposes. The aim is to inform individuals about exploitation techniques and encourage precautionary measures against them. If you are involved in security practices, never attempt these techniques within your company or any network without explicit written permission from the network owner or stakeholders. Any misuse is solely the responsibility of the user. These resources exist only to help individuals and organizations learn from them and strengthen their infrastructure.*
+
+## Disclaimer: 
+All the materials found here are intended solely for research or educational purposes. The aim is to inform individuals about exploitation techniques and encourage precautionary measures against them. If you are involved in security practices, never attempt these techniques within your company or any network without explicit written permission from the network owner or stakeholders. Any misuse is solely the responsibility of the user. These resources exist only to help individuals and organizations learn from them and strengthen their infrastructure.*
+
 <hr>
 
 <!--
