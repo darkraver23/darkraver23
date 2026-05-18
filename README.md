@@ -17,7 +17,7 @@ You will see content on:
 ## About Me:
 I am into OT Cybersecurity. I specialize in ICS/OT & SCADA Security, securing critical infrastructure against evolving cyber threats. My focus areas include IEC 62443, threat modeling, and defense of OT environments. Passionate about the OT security domain, learning every day through research and insights from experts worldwide.  I hold few certifications like CEH, CRISC, CISA, CCIE (Security), PCNSE, NSE 5, SABSA, ASIS PSP, ISO 27001 LA/LI and 30 more, I am also a Google Scholar with 150+ Citations.
 
-This is my Google Scholar Profile: 
+Click Here To View My: [**Google Scholar Profile**](https://scholar.google.com/citations?user=cCM5C_4AAAAJ&hl=en).
 
 If you wish, you can connect with me on [**LinkedIn**](https://www.linkedin.com/in/asmz/).
 <hr>
